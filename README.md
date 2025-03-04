@@ -1,4 +1,4 @@
 # Stock Market Data Analysis and Prediction
-new project Stock Market Data Analysis
+project on Stock Market Analysis
 Owner - Girish Kyal 2003
 
